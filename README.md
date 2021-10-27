@@ -48,8 +48,8 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=ikyoffc&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=zero-four&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=Alphab0t7&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=znxinvasion&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=rest-api-kaptendipzt&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=Iky-Ads&theme=nightowl)
 
 
 <p align="center">

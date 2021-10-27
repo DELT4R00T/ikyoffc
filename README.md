@@ -46,8 +46,8 @@
 <p align="center"><a href="https://github.com/ikyoffc"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikyoffc&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=Ikyapake&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=ikyapake1&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=ikyoffc&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=zero-four&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=Alphab0t7&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ikyoffc&repo=znxinvasion&theme=nightowl)
 

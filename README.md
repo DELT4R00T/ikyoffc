@@ -1,6 +1,6 @@
 <h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <p align="center">
-  <img src="https://a.top4top.io/p_2125lgo730.jpg" />
+  <img src="https://ibb.co/8nkhgZb" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 ------
 ### Connect with me ☎️
 <p align="center">
-  <a href="https://instagram.com/ikyfvck"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/apakestore.id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://api.whatsapp.com/send/?phone=6285211527292&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/iky.Apake1"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/IkyApake7"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://t.me/ikyfvck"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="https://m.youtube.com/channel/UCyUqsqvDVnXxeRUg0RYb7og"><img src="https://img.shields.io/badge/YouTube-riki cjk-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://m.youtube.com/channel/UCyUqsqvDVnXxeRUg0RYb7og" /><br>
   <a name=IkyApake&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/ikyoffc"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
